@@ -1,0 +1,5 @@
+interface:
+  display_name: "notty"
+  short_description: "Send the current task result to Discord"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,1 @@
+../../../skills/notty/SKILL.md
